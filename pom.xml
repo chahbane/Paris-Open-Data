@@ -3,8 +3,8 @@
   http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.360dot</groupId>
-    <artifactId>spring-boot-csv-file-upload</artifactId>
+    <groupId>com.opendata</groupId>
+    <artifactId>paris.data</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
